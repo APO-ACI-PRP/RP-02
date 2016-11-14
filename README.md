@@ -1,2 +1,2 @@
-# Rotation #2
+# Rotation #2 - GDT
 Configuring vPC on Leaf switches
